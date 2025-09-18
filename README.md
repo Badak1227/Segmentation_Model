@@ -115,12 +115,15 @@ UNet 기반 세그멘테이션 모델을 구현하여 이미지 내 객체를 �
 ### 예시 1
 | 입력 이미지 | 예측 마스크 (Gray) | 예측 마스크 (Color) |
 |-------------|-------------------|---------------------|
-| ![input1](docs/input_image.jpg) | ![mask_gray1](docs/predicted_image8.jpg) | ![mask_color1](docs/predicted_color_image8.jpg) |
+| <img width="452" height="452" alt="image" src="https://github.com/user-attachments/assets/1ec6b307-e1e8-4c34-a0ce-de1fc9886e18" /> | ![mask_gray1](docs/predicted_image8.jpg) | ![mask_color1]<img width="452" height="452" alt="image" src="https://github.com/user-attachments/assets/055dab3b-efe3-49fc-948f-3c105f1789c0" />
+ |
 
 ### 예시 2
 | 입력 이미지 | 예측 마스크 (Gray) | 예측 마스크 (Color) |
 |-------------|-------------------|---------------------|
-| ![input2](docs/input2.jpg) | ![mask_gray2](docs/predicted_1366_2000.jpg) | ![mask_color2](docs/predicted_color_1366_2000.jpg) |
+| <img width="444" height="444" alt="image" src="https://github.com/user-attachments/assets/0c498cf5-820c-484c-ba74-e0fbdb3141cf" /> | ![mask_gray2](docs/predicted_1366_2000.jpg) | <img width="442" height="442" alt="image" src="https://github.com/user-attachments/assets/89b957dd-a702-4563-9cae-238a5c19a544" />
+ |
+
 
 ---
 
